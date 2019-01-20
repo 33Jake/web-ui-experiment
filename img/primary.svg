@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="370px" height="472px" viewBox="0 0 370 472" enable-background="new 0 0 370 472" xml:space="preserve">
+<g>
+	<g display="none">
+		<g display="inline">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" width="370" height="472"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)">
+					<rect fill="#323232" width="370" height="472"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g display="none">
+		<g display="inline">
+			<g>
+				<defs>
+					<rect id="SVGID_3_" width="370" height="472"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  overflow="visible"/>
+				</clipPath>
+				<g display="none" clip-path="url(#SVGID_4_)">
+					<g display="inline">
+						<rect fill="#2C3E50" width="370" height="472"/>
+					</g>
+					<g display="inline">
+						<g>
+							<polygon fill="#34495E" points="0,472 0,472 0,471.998 							"/>
+						</g>
+						<g>
+							<polygon fill="#34495E" points="367.299,471.998 367.299,0 366.499,0 183.65,235.485 							"/>
+						</g>
+					</g>
+					<g display="inline">
+						<g>
+							<polygon fill="#34495E" points="183.65,235.485 0.801,0 0,0 0,471.998 							"/>
+						</g>
+						<g>
+							<polygon fill="#34495E" points="367.299,471.998 367.299,472 367.299,472 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="-170.892" y="-133.393" width="709.464" height="710.964"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<g id="Header" clip-path="url(#SVGID_6_)">
+					<g id="Background" display="none">
+						<rect x="-200.89" y="-145.392" display="inline" fill="#3498DB" width="712.464" height="679.466"/>
+					</g>
+					<g id="Branding">
+						<text transform="matrix(0.9902 0 0 1 77.9004 343.875)" fill="#ECF0F1" font-family="'MagallanesCond'" font-size="44">Experiment</text>
+						<g id="Shape">
+							<polyline fill="none" stroke="#ECF0F1" stroke-width="5" stroke-miterlimit="10" points="293.324,264.412 293.324,279.848 
+								185.032,304.248 76.741,279.848 76.741,264.412 							"/>
+							<polyline fill="none" stroke="#ECF0F1" stroke-width="5" stroke-miterlimit="10" points="76.741,202.357 76.741,186.923 
+								185.032,162.521 293.324,186.923 293.324,202.357 							"/>
+						</g>
+						
+							<text transform="matrix(0.9902 0 0 1 150.4453 257.9756)" fill="#ECF0F1" font-family="'MagallanesCondBlack'" font-size="70">UI</text>
+						<g id="a-z">
+							
+								<text transform="matrix(0.9902 0 0 1 64.9395 247.0391)" fill="#ECF0F1" font-family="'MagallanesCondBold'" font-size="37.2718">A</text>
+							
+								<text transform="matrix(0.9902 0 0 1 282.8799 247.0391)" fill="#ECF0F1" font-family="'MagallanesCondBold'" font-size="37.2718">Z</text>
+						</g>
+						
+							<text transform="matrix(0.9901 0 0 1 141.0654 153.2119)" fill="#ECF0F1" font-family="'MagallanesCond'" font-size="44.5415">Web</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

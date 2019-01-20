@@ -1,0 +1,7 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+@include font-face('Magallanes', 'Magallanes/Extralight/MagallanesCondExtraLight-webfont',$weight:200);
+@include font-face('Magallanes', 'Magallanes/Regular/MagallanesCondRegular-webfont',$weight:400);
+@include font-face('Magallanes', 'Magallanes/Bold/MagallanesCondBold-webfont',$weight:700);
+@include font-face('Magallanes', 'Magallanes/Extrabold/MagallanesCondExtraBold-webfont',$weight:900);

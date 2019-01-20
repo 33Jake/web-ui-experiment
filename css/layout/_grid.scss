@@ -1,0 +1,219 @@
+html, body {
+	@include size(100%);
+	margin: 0;
+	padding: 0;
+}
+
+#grid-container {
+	@include size(100%);
+	display: block;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+	
+	li {
+		font-family: 'Magallanes';
+		font-weight: 900;
+		@include font-size(64px);
+		@include text-shadow(.5);
+		text-transform: uppercase;
+		text-align: center;
+		list-style: none;
+		background-color: $peter-river;	
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		display: inline-block;
+		overflow: hidden;
+		cursor: pointer;
+
+		@include bp-large(){
+			@include font-size(42px);
+		}
+
+		@include bp-medium(){
+			@include font-size(32px);	
+		}
+
+		@include bp-small(){
+			@include font-size(18px);
+		}
+
+		&#primary {
+			background-image: url(../img/primary.svg);
+			background-size: auto 150%;
+		}
+
+		// Double filler square 2nd/3rd to last spots
+		&.double {
+			background-image: url(../img/alt-double.svg);
+
+			@include bp-1-5 {
+				display: inline-block;
+				@include size(66.3337%, 7.69231%);
+			}
+
+			@include bp-2-5 {
+				display: inline-block;
+				@include size(25%, 11.1111%);
+			}
+
+			@include bp-2-3 {
+				display: none;
+			}
+
+			@include bp-1-1 {
+				display: inline-block;
+				@include size(33.3334%, 20%);
+			}
+
+			@include bp-3-2 {
+				display: none;
+			}
+
+			@include bp-5-2 {
+				display: inline-block;
+				@include size(20%, 33.3333%);
+			}
+
+			@include bp-5-1 {
+				display: none;
+			}
+		}
+
+		// Last filler square normal size unles 2:5
+		&:last-of-type {
+			background-image: url(../img/branding.svg);
+			background-size: auto 150%;
+
+			@include bp-1-5 {
+				@include size(33.3333%, 7.69231%);
+				background-size: auto 150%;
+			}
+
+			@include bp-2-5 {
+				@include size(100%, 11.1111%);
+				background-size: 25%;
+			}
+
+			@include bp-2-3 {
+				@include size(25%, 14.2857%);
+				background-size: auto 150%;
+			}
+
+			@include bp-1-1 {
+				@include size(16.6667%, 20%);
+				background-size: auto 150%;
+			}
+
+			@include bp-3-2 {
+				@include size(14.2857%, 25%);
+				background-size: auto 150%;
+			}
+
+			@include bp-5-2 {
+				@include size(10%, 33.3333%);
+				background-size: auto 150%;
+			}
+
+			@include bp-5-1 {
+				@include size(7.14286%, 50%);
+				background-size: auto 150%;
+			}
+		}
+
+		// All other squares
+		@include bp-1-5 {
+			@include size(33.3333%, 7.69231%);
+		}
+
+		@include bp-2-5 {
+			@include size(25%, 11.1111%);
+		}
+
+		@include bp-2-3 {
+			@include size(25%, 14.2857%);
+		}
+
+		@include bp-1-1 {
+			@include size(16.6667%, 20%);
+		}
+
+		@include bp-3-2 {
+			@include size(14.2857%, 25%);
+		}
+
+		@include bp-5-2 {
+			@include size(10%, 33.3333%);
+		}
+
+		@include bp-5-1 {
+			@include size(7.14286%, 50%);
+		}
+
+		.color-overlay {
+			@include size(100%);
+			@include transition(.5s, cubic-bezier(0.86, 0, 0.07, 1));
+			background: rgba(20, 20, 20,.90);
+			display: block;
+			left: auto;
+			right: auto;
+			bottom: auto;
+			top: auto;
+
+			&.slide-from-left {
+				@include transform(translatex(100%)); 
+			}
+
+			&.slide-from-right {
+				@include transform(translatex(-100%)); 
+			}
+
+			&.slide-from-top {
+				@include transform(translatey(100%)); 
+			}
+
+			&.slide-from-bottom {
+				@include transform(translatey(-100%)); 
+			}
+
+			.letter {
+				@include center-h--unk;
+			}
+		}
+
+		.item-title {
+			display: none;
+			// @include transition(.25s, linear);
+			// @include opacity(0);
+			// @include font-size(14px);
+			// @include text-shadow(0);
+			// transition-delay: .2s;
+			// font-weight: 200;
+			// text-transform: initial;
+			// background: $dark-grey;
+			// color: $clouds;
+			// border: 1px solid $clouds; 
+			// border-bottom: 0;
+			// height: 25px;
+			// line-height: 25px;
+
+			// &.show {
+			// 	@include opacity(1);
+			// 	@include transform(translate(0,-25px));
+			// }
+
+			// @include bp-large(){
+			// 	@include font-size(14px);	
+			// }
+
+			// @include bp-medium(){
+			// 	@include font-size(12px);
+			// }
+
+			// @include bp-small(){
+			// 	@include font-size(1px);
+			// }
+		}
+	}
+}

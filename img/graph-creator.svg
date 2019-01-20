@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="370px" height="472px" viewBox="0 0 370 472" enable-background="new 0 0 370 472" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="370" height="472"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g opacity="0.95" clip-path="url(#SVGID_2_)">
+		<rect fill="#E67E22" width="370" height="472"/>
+	</g>
+	<path clip-path="url(#SVGID_2_)" fill="#F39C12" d="M184.998,69.029c92.219,0,166.972,74.756,166.972,166.97
+		c0,92.216-74.753,166.972-166.972,166.972c-92.211,0-166.968-74.756-166.968-166.972C18.03,143.785,92.787,69.029,184.998,69.029z"
+		/>
+	<g id="Icon" clip-path="url(#SVGID_2_)">
+		<g>
+			
+				<image overflow="visible" opacity="0.3" width="351" height="260" xlink:href="7A99E00093CB0156.png"  transform="matrix(1 0 0 1 9.5 116.5)">
+			</image>
+			<g>
+				<rect x="18.559" y="123.007" fill="#F39C12" width="332.883" height="241.303"/>
+			</g>
+		</g>
+		<rect x="38.454" y="142.9" fill="#ECF0F1" width="293.095" height="201.518"/>
+		<rect x="204.894" y="207.686" fill="#FFFFFF" width="110.076" height="107.225"/>
+		<rect x="59.408" y="160.34" fill="#FFFFFF" width="110.075" height="161.333"/>
+		<rect x="213.848" y="274.727" fill="#2980B9" width="22.874" height="40.582"/>
+		<rect x="247.861" y="256.094" fill="#27AE60" width="22.878" height="59.281"/>
+		<rect x="281.884" y="234.011" fill="#E74C3C" width="22.874" height="81.364"/>
+		<path fill="#E74C3C" d="M217.955,159.081c2.274,0,4.115,1.84,4.115,4.111c0,2.27-1.841,4.11-4.115,4.11
+			c-2.267,0-4.107-1.841-4.107-4.11C213.848,160.92,215.688,159.081,217.955,159.081z"/>
+		<path fill="#27AE60" d="M217.955,172.343c2.274,0,4.115,1.841,4.115,4.111c0,2.27-1.841,4.11-4.115,4.11
+			c-2.267,0-4.107-1.841-4.107-4.11C213.848,174.184,215.688,172.343,217.955,172.343z"/>
+		<path fill="#2980B9" d="M217.955,187.263c2.274,0,4.115,1.841,4.115,4.111c0,2.27-1.841,4.111-4.115,4.111
+			c-2.267,0-4.107-1.841-4.107-4.111C213.848,189.104,215.688,187.263,217.955,187.263z"/>
+		<rect x="231.617" y="161.136" fill="#BDC3C7" width="83.353" height="4.111"/>
+		<rect x="231.617" y="175.393" fill="#BDC3C7" width="83.353" height="4.112"/>
+		<rect x="231.617" y="189.651" fill="#BDC3C7" width="83.353" height="4.11"/>
+		<g>
+			<g>
+				<g>
+					<path fill="#2980B9" d="M106.092,246.742l-37.069,21.42c-11.806-20.424-4.772-46.617,15.647-58.421
+						c6.835-3.912,13.529-5.702,21.353-5.702v42.703H106.092z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#27AE60" d="M106.624,249.527l27.449,32.758c-18.104,15.188-45.025,12.799-60.209-5.238
+						c-1.658-1.988-2.985-3.846-4.244-6.1L106.624,249.527z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#E74C3C" d="M120.214,252.645l37.004-21.351c10.475,18.167,6.496,40.648-9.551,54.109L120.214,252.645z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#F39C12" d="M109.34,244.223v-42.77c15.716,0,29.176,7.757,37,21.353L109.34,244.223z"/>
+				</g>
+			</g>
+		</g>
+		<rect x="65.178" y="166.441" fill="#27AE60" width="97.741" height="11.406"/>
+		<rect x="65.178" y="183.349" fill="#27AE60" width="97.741" height="11.407"/>
+		<rect x="65.178" y="301.979" fill="#27AE60" width="97.741" height="11.406"/>
+		<g opacity="0.95">
+			
+				<image overflow="visible" opacity="0.2" width="351" height="34" xlink:href="7A99E00093CB015A.png"  transform="matrix(1 0 0 1 9.5 95.5)">
+			</image>
+			<g>
+				<polygon fill="#E67E22" points="18.559,123.007 33.811,107.69 340.168,107.69 351.441,123.007 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

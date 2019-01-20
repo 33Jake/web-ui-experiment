@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="370px" height="472px" viewBox="0 0 370 472" enable-background="new 0 0 370 472" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="370" height="472"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<rect fill="#2980B9" width="370" height="472"/>
+	</g>
+	<g display="none" clip-path="url(#SVGID_2_)">
+		<g display="inline">
+			<rect x="0" fill="#2C3E50" width="370" height="472"/>
+		</g>
+		<g display="inline">
+			<g>
+				<polygon fill="#34495E" points="0,472 0,472 0,471.998 				"/>
+			</g>
+			<g>
+				<polygon fill="#34495E" points="367.299,471.998 367.299,0 366.499,0 183.65,235.485 				"/>
+			</g>
+		</g>
+		<g display="inline">
+			<g>
+				<polygon fill="#34495E" points="183.65,235.485 0.801,0 0,0 0,471.998 				"/>
+			</g>
+			<g>
+				<polygon fill="#34495E" points="367.299,471.998 367.299,472 367.299,472 				"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<circle fill="#E67E22" cx="185.303" cy="33.122" r="170.033"/>
+		<path fill="#F1C40F" d="M355.336,470.725c0,21.997-76.125,39.83-170.034,39.83c-93.905,0-170.032-17.833-170.032-39.83
+			c0-21.994,76.127-39.826,170.032-39.826C279.211,430.898,355.336,448.73,355.336,470.725z"/>
+		<rect x="56.891" y="156.683" fill="#ECF0F1" width="203.1" height="149.107"/>
+		<path fill="#323232" d="M319.324,354.663l-27.969-7.646l-0.076-77.449l26.771,7.548l38.592-144.057L161.152,80.67l-12.888,48.045
+			h-22.081l19.887-74.14l236.688,63.4L319.324,354.663L319.324,354.663z M281.32,380.409H35.599V135.375H281.32V380.409z
+			 M259.99,156.683h-203.1V305.79h203.1V156.683z M119.302,263.012l24.353-39.363l24.355,24.514l33.471-50.391l35.021,86.744H81.235
+			l19.806-39.572L119.302,263.012z M104.733,221.358c-8.816,0-15.96-7.133-15.96-15.98c0-8.834,7.144-15.954,15.96-15.954
+			c8.84,0,15.983,7.12,15.983,15.954C120.717,214.226,113.573,221.358,104.733,221.358z"/>
+	</g>
+</g>
+</svg>

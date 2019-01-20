@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="370px" height="472px" viewBox="0 0 370 472" enable-background="new 0 0 370 472" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="370" height="472"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<rect fill="#9B59B6" width="370" height="472"/>
+	</g>
+	<g display="none" clip-path="url(#SVGID_2_)">
+		<g display="inline">
+			<rect x="0" fill="#2C3E50" width="370" height="472"/>
+		</g>
+		<g display="inline">
+			<g>
+				<polygon fill="#34495E" points="0,472 0,472 0,471.998 				"/>
+			</g>
+			<g>
+				<polygon fill="#34495E" points="367.299,471.998 367.299,0 366.499,0 183.65,235.485 				"/>
+			</g>
+		</g>
+		<g display="inline">
+			<g>
+				<polygon fill="#34495E" points="183.65,235.485 0.801,0 0,0 0,471.998 				"/>
+			</g>
+			<g>
+				<polygon fill="#34495E" points="367.299,471.998 367.299,472 367.299,472 				"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<g>
+			
+				<image overflow="visible" opacity="0.3" width="463" height="464" xlink:href="EF64963A9193804D.png"  transform="matrix(1 0 0 1 -46.5 -23.5)">
+			</image>
+			<g>
+				<path fill="#F39C12" d="M185.003-13.588c122.869,0,222.479,99.605,222.479,222.48c0,122.874-99.61,222.479-222.479,222.479
+					c-122.875,0-222.485-99.605-222.485-222.479C-37.482,86.018,62.128-13.588,185.003-13.588z"/>
+			</g>
+		</g>
+		<g>
+			
+				<image overflow="visible" opacity="0.3" width="281" height="481" xlink:href="EF64963A9193804F.png"  transform="matrix(1 0 0 1 44.5 14.5)">
+			</image>
+			<g>
+				<g>
+					<rect x="165.192" y="230.815" fill="#ECF0F1" width="39.619" height="254.772"/>
+					<polygon opacity="0.15" fill="#181818" enable-background="new    " points="164.656,280.432 164.656,306.04 204.812,306.04 
+						204.812,274.987 					"/>
+					<circle fill="#ECF0F1" cx="185.003" cy="155.232" r="131.447"/>
+					<path opacity="0.35" fill="#77B4BE" enable-background="new    " d="M185.003,259.906
+						c-57.735,0-104.674-46.938-104.674-104.676c0-57.735,46.939-104.676,104.674-104.676c57.734,0,104.673,46.94,104.673,104.676
+						C289.676,212.968,242.737,259.906,185.003,259.906z"/>
+					<g>
+						<path opacity="0.35" fill="#FFFFFF" enable-background="new    " d="M289.676,155.23c0-57.735-46.938-104.676-104.673-104.676
+							c-31.231,0-59.344,13.833-78.617,35.608l166.425,125.911C283.434,195.743,289.676,176.202,289.676,155.23z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

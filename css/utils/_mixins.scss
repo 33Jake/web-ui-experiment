@@ -1,0 +1,157 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass mixins.
+// -----------------------------------------------------------------------------
+
+/// Event wrapper
+/// @author Harry Roberts
+/// @param {Bool} $self [false] - Whether or not to include current selector
+/// @link https://twitter.com/csswizardry/status/478938530342006784 Original tweet from Harry Roberts
+@mixin on-event($self: false) {
+  @if $self {
+    &,
+    &:hover,
+    &:active,
+    &:focus {
+      @content;
+    }
+  } @else {
+    &:hover,
+    &:active,
+    &:focus {
+      @content;
+    }
+  }
+}
+
+/// Make a context based selector a little more friendly
+/// @author Hugo Giraudel
+/// @param {String} $context
+@mixin when-inside($context) {
+  #{$context} & {
+    @content;
+  }
+}
+
+/// Responsive manager
+/// @param {String} $breakpoint - Breakpoint
+/// @requires $breakpoints
+/// @link http://sass-guidelin.es/#breakpoint-manager Sass Guidelines - Breakpoint Manager
+@mixin respond-to($breakpoint) {
+  $query: map-get($breakpoints, $breakpoint);
+  
+  @if not $query {
+    @error 'No value found for `#{$breakpoint}`. Please make sure it is defined in `$breakpoints` map.';
+  }
+
+  @media #{if(type-of($query) == 'string', unquote($query), inspect($query))} {
+    @content;
+  }
+}
+
+/// Font Size
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+
+/// Line Height
+@mixin line-height($heightValue: 12 ){
+    line-height: $heightValue + px; //fallback for old browsers
+    line-height: (0.125 * $heightValue) + rem;
+}
+
+/// Breakpoints
+@mixin bp-large {
+  @media only screen and (max-width: 60em) {
+    @content;
+  }
+}
+
+@mixin bp-medium {
+  @media only screen and (max-width: 40em) {
+    @content;
+  }
+}
+
+@mixin bp-small {
+  @media only screen and (max-width: 30em) {
+    @content;
+  }
+}
+
+@mixin bp-1-5 {
+  @media screen and (min-aspect-ratio: 1/5) {
+    @content;
+  }
+}
+
+@mixin bp-2-5 {
+  @media screen and (min-aspect-ratio: 2/5) {
+    @content;
+  }
+}
+
+@mixin bp-2-3 {
+  @media screen and (min-aspect-ratio: 2/3) {
+    @content;
+  }
+}
+
+@mixin bp-1-1 {
+  @media screen and (min-aspect-ratio: 1/1) {
+    @content;
+  }
+}
+
+@mixin bp-3-2 {
+  @media screen and (min-aspect-ratio: 3/2) {
+    @content;
+  }
+}
+
+@mixin bp-5-2 {
+  @media screen and (min-aspect-ratio: 5/2) {
+    @content;
+  }
+}
+
+@mixin bp-5-1 {
+  @media screen and (min-aspect-ratio: 5/1) {
+    @content;
+  }
+}
+
+/// Animation
+@mixin animation($str) {
+  -webkit-animation: #{$str};
+  -moz-animation: #{$str};
+  -ms-animation: #{$str};
+  -o-animation: #{$str};
+  animation: #{$str};      
+}
+
+/// Border Radius
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  background-clip: padding-box;  /* stops bg color from leaking outside the border: */
+}
+
+/// Truncate Text
+@mixin text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/// Box Shadow
+@mixin box-shadow( $horiz : .5em , $vert : .5em , $blur : 0px , $spread : 0px , $color : #000000 ){
+  -webkit-box-shadow: $horiz $vert $blur $spread $color;
+  -moz-box-shadow: $horiz $vert $blur $spread $color;
+  box-shadow: $horiz $vert $blur $spread $color;
+}

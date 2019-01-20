@@ -1,0 +1,184 @@
+[
+	{
+		"letter"	  : "a",
+		"icon"  	  : "audio-player.svg",
+		"color"		  : "#2C3E50",
+		"title"		  : "Audio Player",
+		"description" : ""
+	},
+	{
+		"letter"	  : "b",
+		"icon"  	  : "budget.svg",
+		"color"		  : "#F39C12",
+		"title"		  : "Budget App",
+		"description" : ""
+	},
+	{
+		"letter"	  : "c",
+		"icon"  	  : "world-clock.svg",
+		"color"		  : "#8E44AD",
+		"title"		  : "World Clock",
+		"description" : ""
+	},
+	{
+		"letter"	  : "d",
+		"icon"  	  : "datepicker.svg",
+		"color"		  : "#16A085",
+		"title"		  : "Datepicker",
+		"description" : ""
+	},
+	{
+		"letter"	  : "e",
+		"icon"  	  : "event-calendar.svg",
+		"color"		  : "#313538",
+		"title"		  : "Event Calendar",
+		"description" : ""
+	},
+	{
+		"letter"	  : "f",
+		"icon"  	  : "",
+		"color"		  : "#",
+		"title"		  : "Film Finder",
+		"description" : ""
+	},
+	{
+		"letter"	  : "g",
+		"icon"  	  : "graph-creator.svg",
+		"color"		  : "#DC7F2B",
+		"title"		  : "Graph Creator",
+		"description" : ""
+	},
+	{
+		"letter"	  : "h",
+		"icon"  	  : "halloween-history.svg",
+		"color"		  : "#323232",
+		"title"		  : "Halloween History",
+		"description" : ""
+	},
+	{
+		"letter"	  : "i",
+		"icon"  	  : "infinite-scroll.svg",
+		"color"		  : "#2980B9",
+		"title"		  : "Infinite Scroll",
+		"description" : ""
+	},
+	{
+		"letter"	  : "j",
+		"icon"  	  : "job-finder.svg",
+		"color"		  : "#2C3E50",
+		"title"		  : "Job Finder",
+		"description" : ""
+	},
+	{
+		"letter"	  : "k",
+		"icon"  	  : "web-knowledge-quiz.svg",
+		"color"		  : "#3498DB",
+		"title"		  : "Web Knowledge Quiz",
+		"description" : ""
+	},
+	{
+		"letter"	  : "l",
+		"icon"  	  : "login-page.svg",
+		"color"		  : "#D35400",
+		"title"		  : "Login Page",
+		"description" : ""
+	},
+	{
+		"letter"	  : "m",
+		"icon"  	  : "movie-cards.svg",
+		"color"		  : "#2ECC71",
+		"title"		  : "Movie Cards",
+		"description" : ""
+	},
+	{
+		"letter"	  : "n",
+		"icon"  	  : "newfeed.svg",
+		"color"		  : "#34495E",
+		"title"		  : "Newsfeed",
+		"description" : ""
+	},
+	{
+		"letter"	  : "o",
+		"icon"  	  : "orange-interface.svg",
+		"color"		  : "#7F8C8D",
+		"title"		  : "Orange Interface",
+		"description" : ""
+	},
+	{
+		"letter"	  : "p",
+		"icon"  	  : "photo-filters.svg",
+		"color"		  : "#2980B9",
+		"title"		  : "Photo Filtesr",
+		"description" : ""
+	},
+	{
+		"letter"	  : "q",
+		"icon"  	  : "famous-quotes.svg",
+		"color"		  : "#2980B9",
+		"title"		  : "Famous Quotes",
+		"description" : ""
+	},
+	{
+		"letter"	  : "r",
+		"icon"  	  : "recipe-cards.svg",
+		"color"		  : "#2C3E50",
+		"title"		  : "Recipe Cards",
+		"description" : ""
+	},
+	{
+		"letter"	  : "s",
+		"icon"  	  : "search-results.svg",
+		"color"		  : "#9B59B6",
+		"title"		  : "Search Results",
+		"description" : ""
+	},
+	{
+		"letter"	  : "t",
+		"icon"  	  : "to-do-list.svg",
+		"color"		  : "#27AE60",
+		"title"		  : "To-Do List",
+		"description" : ""
+	},
+	{
+		"letter"	  : "u",
+		"icon"  	  : "user-profile.svg",
+		"color"		  : "#E74C3C",
+		"title"		  : "User Profile",
+		"description" : ""
+	},
+	{
+		"letter"	  : "v",
+		"icon"  	  : "video-player.svg",
+		"color"		  : "#8E44AD",
+		"title"		  : "Video Player",
+		"description" : ""
+	},
+	{
+		"letter"	  : "w",
+		"icon"  	  : "weather.svg",
+		"color"		  : "#2980B9",
+		"title"		  : "Weather",
+		"description" : ""
+	},
+	{
+		"letter"	  : "x",
+		"icon"  	  : "",
+		"color"		  : "#",
+		"title"		  : "",
+		"description" : ""
+	},
+	{
+		"letter"	  : "y",
+		"icon"  	  : "yellow-interface.svg",
+		"color"		  : "#7F8C8D",
+		"title"		  : "Yellow Interface",
+		"description" : ""
+	},
+	{
+		"letter"	  : "z",
+		"icon"  	  : "zero-hundred.svg",
+		"color"		  : "#323232",
+		"title"		  : "0-100 Speed Gauge",
+		"description" : ""
+	}
+]
